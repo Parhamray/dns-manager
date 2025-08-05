@@ -17,15 +17,29 @@ A user-friendly Windows batch script i made that puts complete DNS control at yo
 - Run it normally as the script will ask for admin rights regardless. (If the file is blocked by windows, you can unblock it in the properties of the file)
 - Choose from the menu options presented
 
-# Important Notes
-⚠️ Administrator Rights Required: This script modifies system network settings and must be run with administrator privileges.
-
-💻 Windows Compatibility: Tested on Windows 10 and Windows 11. Should work on Windows 7/8 with PowerShell installed though.
-
-🔄 Changes Apply to current network: DNS modifications take effect on your active network adapter, whether it's WiFi or Ethernet and nothing else (e.g. vpn adapters...)
+#
+> [!Note]
+>⚠️ Administrator Rights Required: This script modifies system network settings and must be run with administrator privileges.
+> 
+> 💻 Windows Compatibility: Tested on Windows 10 and Windows 11. Should work on Windows 7/8 with PowerShell installed though.
+> 
+> 🔄 Changes Apply to current network: DNS modifications take effect on your active network adapter, whether it's WiFi or Ethernet and nothing else (e.g. vpn adapters...)
 
 # 🛠️ Contributing
 Contributions/suggestions are absolutely welcomed! But do keep in mind that i'm somewhat new to all of this.
 
-# 📄 License
-The project is licensed under the GNU General Public License v3.0 | check out the LICENSE file for details.
+# 💖 Donate
+Bitcoin:
+>bc1qz37fj3j7v4fhvfycl3njwjeecdxk25ul0nar4m
+
+Ethereum:
+>0xF73155040426812fE9dD08E648D344d008a08df9
+
+Tron:
+>TSVeXQPT8SBce1vao5PaidanFziJP84HRx
+
+Litecoin:
+>ltc1qnvy4qv7594frtph0vwcflkg5z4j7x6hzzkxwg5
+
+Ton:
+>UQBt9sBqMQxWlMkwcACSwyowIyBhy_tked8jkqAzBuoALPPL
