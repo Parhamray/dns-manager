@@ -13,8 +13,8 @@ A user-friendly Windows batch script i made that puts complete DNS control at yo
 
 
 # 📖 How to Use
-- Download the batch script from this repository. or just click here for [Download Page](https://github.com/Parhamray/simple-dns-changer/blob/main/Dns%20Changer.bat), then click on the little download icon on the right side.
-- Run it normally as the script will ask for admin rights regardless. (If the file is blocked, you can unblock it in its properties)
+- Download the batch script from this repository. or just click here for [Download Page](https://github.com/Parhamray/dns-manager/blob/main/Dns%20Manager.bat), then click on the little download icon on the right side.
+- Run it normally as the script will ask for admin rights regardless. (If the file is blocked by windows, you can unblock it in the properties of the file)
 - Choose from the menu options presented
 
 # Important Notes
