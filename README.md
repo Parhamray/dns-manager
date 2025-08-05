@@ -1,5 +1,5 @@
 # 🌐 DNS Manager
-A user-friendly Windows batch script i made that puts complete DNS control at your fingertips. No more headaches constantly changing DNS by copy/pasting and it's built with PowerShell commands for reliability and performance.
+A user-friendly Windows batch script i made that puts complete DNS control at your fingertips. No more headaches constantly changing DNS by copy/pasting; and it's built with PowerShell commands for reliability and performance.
 
 <img width="2042" height="1148" alt="image" src="https://github.com/user-attachments/assets/71ab1a7f-7bf5-4765-9ca4-17c7da20a3f6" />
 
