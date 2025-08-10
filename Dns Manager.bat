@@ -199,6 +199,7 @@ set /p "ipv6p=Enter primary IPv6 DNS: "
 set /p "ipv6s=Enter secondary IPv6 DNS: "
 
 :: Applying DNS provided by user, and showing the results
+set "dnsprovider="
 goto applydns
 
 
